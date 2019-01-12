@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="22dp"
+    android:layout_marginTop="16dp"
+    android:layout_marginRight="22dp"
+    android:layout_marginBottom="16dp">
+
+    <!--<ja.burhanrashid52.photoeditor.PhotoEditorView-->
+        <!--android:id="@+id/photoEditorView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--app:photo_src="@drawable/partner" />-->
+
+
+    <ImageView
+        android:id="@+id/yp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/ic_launcher_background" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,5 +1,6 @@
 package com.project.ap.quotestatus;
 
+
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Bitmap;
@@ -23,7 +24,6 @@ import com.project.ap.quotestatus.views.FoldingCellView;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
 
 /**
  * Very first implementation of Folding Cell by Ramotion for Android platform
